@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Lines&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#main-title {
+  font-family: 'Rubik Lines', system-ui;
+  font-size: 50px !important;
+}
