@@ -1,3 +1,5 @@
+import React from 'react';
+
 export function NavBar() {
     return ( <div className="navbar bg-base-100">
     <div className="navbar-start">
