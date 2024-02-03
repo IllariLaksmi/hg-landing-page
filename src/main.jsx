@@ -9,7 +9,7 @@ import './index.css'
 
 const router = createBrowserRouter([
   {
-    path: "/hg-landing-page/",
+    path: "/hg-landing-page",
     element: <MainPage />,
   },
 ]);
